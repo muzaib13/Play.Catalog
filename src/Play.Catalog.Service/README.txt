@@ -14,3 +14,17 @@
 7. Create an Catalog Items Controller
 
 8. Implement Get Methods
+
+9. Create DTOs (record types)
+
+10 Implement POST, PUT and Delete
+
+11. Implement Repository Pattern --> MongoDB as Database
+	- Why MongoDB ? 
+	NoSQL solution is preferred for our microservice because: 
+		- Won't need relationships across the data.
+		- Don't need ACID (Atomicity, Consistency, Isolation and Durability ) guarantees.
+		- Wouldn't have to write complex queries
+		- Need low latency, high availability and high scalability.
+
+12.

@@ -31,3 +31,16 @@ D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Pl
 D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.pdb
 D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Catalog.Service.genruntimeconfig.cache
 D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\ref\Play.Catalog.Service.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.Core.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\AWSSDK.SecurityToken.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\DnsClient.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Bson.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\SharpCompress.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Snappier.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\ZstdSharp.dll
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+D:\2023Projects\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
