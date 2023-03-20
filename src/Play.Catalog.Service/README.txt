@@ -27,4 +27,9 @@
 		- Wouldn't have to write complex queries
 		- Need low latency, high availability and high scalability.
 
-12.
+12. Implement CRUD methods in the Repository class.
+
+13. Install mongodb in Docker
+	- docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db mongo (Docker can throw TLS handshake timeout error: It can be due to slow Internet Collection, Retry installing multiple times)
+
+	
