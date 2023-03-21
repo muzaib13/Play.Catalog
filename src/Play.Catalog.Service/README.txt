@@ -32,4 +32,14 @@
 13. Install mongodb in Docker
 	- docker run -d --rm --name mongo -p 27017:27017 -v mongodbdata:/data/db mongo (Docker can throw TLS handshake timeout error: It can be due to slow Internet Collection, Retry installing multiple times)
 
+14. Implement Dependency Injection.
+
+15. Use ASP.Net Core Configurations (AppSettings.json)
+	- Include MongoDB Connection String
+	- Inlude ServiceSettings
+
+16. Use ServiceContainer in Startup.cs file.
+
+17. 
+
 	

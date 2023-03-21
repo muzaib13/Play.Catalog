@@ -7,7 +7,7 @@ using Play.Catalog.Service.Entities;
 namespace Play.Catalog.Service.Repositories
 {
 
-    public class ItemsRepository
+    public class ItemsRepository : IItemsRepository
     {
 
         private const string collectionName = "items"; // In Relation DB we have tables and in MongoDB we have collections 
@@ -15,10 +15,9 @@ namespace Play.Catalog.Service.Repositories
 
         private readonly FilterDefinitionBuilder<Item> filterBuilder = Builders<Item>.Filter;
 
-        public ItemsRepository()
+        public ItemsRepository(IMongoDatabase database)
         {
-            var mongoClient = new MongoClient("mongodb://localhost:27017");
-            var database = mongoClient.GetDatabase("Catalog"); // Get Database object
+
             dbCollection = database.GetCollection<Item>(collectionName); // Get Collection from Catalog DB 
         }
 
