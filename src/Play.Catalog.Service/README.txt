@@ -40,6 +40,6 @@
 
 16. Use ServiceContainer in Startup.cs file.
 
-17. Refactoring code and generalzing common components that will be used by multiple services. 
+17. Refactoring code and generalzing common components that will be used by multiple services.
 
 	
